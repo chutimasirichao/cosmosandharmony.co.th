@@ -224,7 +224,7 @@ export default function Home() {
                 🌿 Eco-conscious Gift · Premium · Souvenir
               </p>
               <h1 className="font-display text-hero font-semibold">
-                ของขวัญรักษ์โลก
+                <span className="whitespace-nowrap">ของขวัญรักษ์โลก</span>
                 <br />
                 ที่ทำให้ทุกวัน
                 <span className="relative inline-block whitespace-nowrap">
